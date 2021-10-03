@@ -1,0 +1,54 @@
+{
+  "name": "bool_gift",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@paypal/react-paypal-js": "^6.0.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "bootstrap": "^4.6.0",
+    "concurrently": "^6.0.1",
+    "formik": "^2.2.6",
+    "mdbreact": "^5.0.2",
+    "react": "^17.0.1",
+    "react-async-script-loader": "^0.3.0",
+    "react-dom": "^17.0.1",
+    "react-material-ui-form-validator": "^2.1.4",
+    "react-paypal-button-v2": "^2.6.3",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-select": "^4.3.0",
+    "uuid": "^8.3.2",
+    "web-vitals": "^0.2.4",
+    "yup": "^0.32.9",
+    "proxy": "http://localhost:27017/"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

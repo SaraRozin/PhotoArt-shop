@@ -1,0 +1,30 @@
+
+  .imageHome{
+    margin-top:2.5vh;
+    border: 5px solid;
+    border-color:black;
+    width: 75vw;
+    height: 81vh;
+    box-shadow: black;
+  }
+  .prev{
+    background-color: transparent;
+    border: none;
+  }
+  .next{
+    background-color: transparent;
+    border: none;
+  }
+  .leftArrow{
+    width: 6vw;
+    height: 6vh;
+    margin-left: -9vw;
+  }
+  .rightArrow{
+    margin-top: -2vh;
+    width: 6vw;
+    height: 6vh;
+    margin-left: 3.5vw;
+    position: absolute;
+  }
+  

@@ -1,0 +1,412 @@
+{
+  "users": [
+    {
+      "id": "b75bdeaf-6158-417a-9e77-8e31c64c16e2",
+      "userEmail": "sr@gmail.com",
+      "userPassword": "11111"
+    },
+    {
+      "id": "038276ee-f350-4292-8776-4156ba0683c5",
+      "userEmail": "s@gmail.com",
+      "userPassword": "11111"
+    },
+    {
+      "id": "41fccf0a-c70c-43a1-b85b-2c294493eb65",
+      "userEmail": "g@gmail.com",
+      "userPassword": "11111"
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "pictureName": "אצילות",
+      "pictureSrcImage": "./images/pictures/3d-wallpaper-swan-pink-tree-260nw-1687707232.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 700,
+      "pictureColor": "ורוד"
+    },
+    {
+      "id": 2,
+      "pictureName": "שאיפה",
+      "pictureSrcImage": "./images/pictures/3JWIV8XHOE.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 900,
+      "pictureColor": "ירוק"
+    },
+    {
+      "id": 3,
+      "pictureName": "אני קיים",
+      "pictureSrcImage": "./images/pictures/83E7QOO8AN.jpg",
+      "pictureType": "פרחים",
+      "picturePrice": 500,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 4,
+      "pictureName": "אופניים במיים",
+      "pictureSrcImage": "./images/pictures/637313458428207422DOR_7969.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "כחול"
+    },
+    {
+      "id": 5,
+      "pictureName": "ארנבון הבונבון",
+      "pictureSrcImage": "./images/pictures/ארנב-HUGE-BASHFUL-TULIP-PUNK-BUNNY1-247x296.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "ורוד"
+    },
+    {
+      "id": 6,
+      "pictureName": "הכותל",
+      "pictureSrcImage": "./images/pictures/הכותל-תמונת-זכוכית-אומנותית-של-ירושלים-לתלייה-במשרד-דגם-F15-1-400x400.jpg",
+      "pictureType": "תמונות זכוכית",
+      "picturePrice": 1000,
+      "pictureColor": "אפור"
+    },
+    {
+      "id": 7,
+      "pictureName": "עץ החיים",
+      "pictureSrcImage": "./images/pictures/טריפל-עץ-החיים-סט-3-תמונות-זכוכית-דגם-SLH-3225-388x400.jpg",
+      "pictureType": "תמונות זכוכית",
+      "picturePrice": 700,
+      "pictureColor": "זהב"
+    },
+    {
+      "id": 8,
+      "pictureName": "יער הפיות",
+      "pictureSrcImage": "./images/pictures/יער-הפיות-תמונת-ציור-אומנותית-על-קנבס-בסגנון-אבסטרקטי-לתלייה-בחדר-שינה-או-סלון-דגם-3728042-536x800.jpg",
+      "pictureType": "תמונות זכוכית",
+      "picturePrice": 900,
+      "pictureColor": "ירוק"
+    },
+    {
+      "id": 9,
+      "pictureName": "שלווה",
+      "pictureSrcImage": "./images/pictures/סט-נוף-הים-3-תמונות-זכוכית-דגם-SLH-3341-388x400.jpg",
+      "pictureType": "תמונות זכוכית",
+      "picturePrice": 1200,
+      "pictureColor": "כחול"
+    },
+    {
+      "id": 10,
+      "pictureName": "פריחה",
+      "pictureSrcImage": "./images/pictures/תמונת-זכוכית-דרום-אדום-דגם-2034-400x400.jpg",
+      "pictureType": "תמונות זכוכית",
+      "picturePrice": 1500,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 11,
+      "pictureName": "שנינו ביחד",
+      "pictureSrcImage": "./images/pictures/תמונת-זכוכית-מרוץ-סוסים-דגם-00001-400x400.jpg",
+      "pictureType": "תמונות זכוכית",
+      "picturePrice": 2000,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 12,
+      "pictureName": "עוצמה",
+      "pictureSrcImage": "./images/pictures/burn.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 500,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 13,
+      "pictureName": "שקיעה",
+      "pictureSrcImage": "./images/pictures/BY1A04951-600x338.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 700,
+      "pictureColor": "חום"
+    },
+    {
+      "id": 14,
+      "pictureName": "מנוחה",
+      "pictureSrcImage": "./images/pictures/BY1A7569-1-600x400.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 500,
+      "pictureColor": "חום"
+    },
+    {
+      "id": 15,
+      "pictureName": "תסיסה",
+      "pictureSrcImage": "./images/pictures/BY1A48501-600x402.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 500,
+      "pictureColor": "כחול"
+    },
+    {
+      "id": 16,
+      "pictureName": "להסתער",
+      "pictureSrcImage": "./images/pictures/colorful-ocean-wave-sea-water-600w-693783628.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 500,
+      "pictureColor": "כתום"
+    },
+    {
+      "id": 17,
+      "pictureName": "יחד",
+      "pictureSrcImage": "./images/pictures/decorative-eggs_PB6TLGYIXH.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 18,
+      "pictureName": "לפרגן",
+      "pictureSrcImage": "./images/pictures/depositphotos_229890240-stock-photo-merry-christmas-composition-santa-shoe.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 19,
+      "pictureName": "רכות",
+      "pictureSrcImage": "./images/pictures/depositphotos_247001368-stock-photo-real-cold-here-inscription-ice.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 700,
+      "pictureColor": "לבן"
+    },
+    {
+      "id": 20,
+      "pictureName": "שנינו ביחד",
+      "pictureSrcImage": "./images/pictures/depositphotos_317589136-stock-photo-couple-birds-decor-for-love.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 700,
+      "pictureColor": "לבן"
+    },
+    {
+      "id": 21,
+      "pictureName": "אהבה",
+      "pictureSrcImage": "./images/pictures/depositphotos_438374838-stock-photo-happy-valentine-day-winter-landscape.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 22,
+      "pictureName": "אצילות",
+      "pictureSrcImage": "./images/pictures/Depositphotos_456226238_xl-2015.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "לבן"
+    },
+    {
+      "id": 23,
+      "pictureName": "פריחה",
+      "pictureSrcImage": "./images/pictures/DFNTF97WVC.jpg",
+      "pictureType": "פרחים",
+      "picturePrice": 500,
+      "pictureColor": "סגול"
+    },
+    {
+      "id": 24,
+      "pictureName": "חבורה",
+      "pictureSrcImage": "./images/pictures/e7d1fb2289cbc2c7fd8a4153805a03fa.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "ורוד"
+    },
+    {
+      "id": 25,
+      "pictureName": "צבעוניות מרהיבה",
+      "pictureSrcImage": "./images/pictures/eggs-3216877_1280.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 700,
+      "pictureColor": "צהוב"
+    },
+    {
+      "id": 26,
+      "pictureName": "אביב צבעוני",
+      "pictureSrcImage": "./images/pictures/FIL0195-600x400.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 500,
+      "pictureColor": "כתום"
+    },
+    {
+      "id": 27,
+      "pictureName": "רוצה לגדול",
+      "pictureSrcImage": "./images/pictures/flower-bloom_NZWKWLNPYX.jpg",
+      "pictureType": "פרחים",
+      "picturePrice": 500,
+      "pictureColor": "כתום"
+    },
+    {
+      "id": 28,
+      "pictureName": "חלומות מתוקים",
+      "pictureSrcImage": "./images/pictures/IHIHHZJODB.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "צהוב"
+    },
+    {
+      "id": 29,
+      "pictureName": "אביב ורוד",
+      "pictureSrcImage": "./images/pictures/IMG_2527-2-600x400.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 500,
+      "pictureColor": "ורוד"
+    },
+    {
+      "id": 30,
+      "pictureName": "אומנות",
+      "pictureSrcImage": "./images/pictures/IMG_8777-600x400.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 500,
+      "pictureColor": "כחול"
+    },
+    {
+      "id": 31,
+      "pictureName": "לגור שם",
+      "pictureSrcImage": "./images/pictures/IMG_91071-600x400.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 700,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 32,
+      "pictureName": "לעוף הכי גבוה שאפשר",
+      "pictureSrcImage": "./images/pictures/istockphoto-955149536-612x612.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 500,
+      "pictureColor": "כחול"
+    },
+    {
+      "id": 33,
+      "pictureName": "קסום",
+      "pictureSrcImage": "./images/pictures/J75_5568-1-768x513.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 500,
+      "pictureColor": "ירוק"
+    },
+    {
+      "id": 34,
+      "pictureName": "מפלים של עוצמה",
+      "pictureSrcImage": "./images/pictures/J75_5664-768x513.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 500,
+      "pictureColor": "ירוק"
+    },
+    {
+      "id": 35,
+      "pictureName": "הרים",
+      "pictureSrcImage": "./images/pictures/J85_5139-768x384.jpg",
+      "pictureType": "תמונות נוף",
+      "picturePrice": 500,
+      "pictureColor": "חום"
+    },
+    {
+      "id": 36,
+      "pictureName": "לפלס את הדרך",
+      "pictureSrcImage": "./images/pictures/littlevisuals.jpg",
+      "pictureType": "תמונות נוף",
+      "picturePrice": 500,
+      "pictureColor": "חום"
+    },
+    {
+      "id": 37,
+      "pictureName": "אהבה",
+      "pictureSrcImage": "./images/pictures/living-coral-color-year-2019-260nw-1250940526.jpg",
+      "pictureType": "תמונות לחדר ילדים",
+      "picturePrice": 700,
+      "pictureColor": "אדום"
+    },
+    {
+      "id": 38,
+      "pictureName": "חלומות ורודים",
+      "pictureSrcImage": "./images/pictures/magnolia-trees-556718_1280.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 800,
+      "pictureColor": "ורוד"
+    },
+    {
+      "id": 39,
+      "pictureName": "נופת צופים",
+      "pictureSrcImage": "./images/pictures/QPSPSSPF77.jpg",
+      "pictureType": "פרחים",
+      "picturePrice": 800,
+      "pictureColor": "ורוד"
+    },
+    {
+      "id": 40,
+      "pictureName": "קפה שלי",
+      "pictureSrcImage": "./images/pictures/RGTFS21RRA.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 600,
+      "pictureColor": "חום"
+    },
+    {
+      "id": 41,
+      "pictureName": "אבני דרך",
+      "pictureSrcImage": "./images/pictures/sea-waves-lash-line-impact-600w-1574930707.jpg",
+      "pictureType": "תמונות טבע",
+      "picturePrice": 600,
+      "pictureColor": "חום"
+    },
+    {
+      "id": 42,
+      "pictureName": "גוונים",
+      "pictureSrcImage": "./images/pictures/StockSnap_HNM0EAC9LW.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 500,
+      "pictureColor": "צהוב"
+    },
+    {
+      "id": 43,
+      "pictureName": "רגשות מעורבים",
+      "pictureSrcImage": "./images/pictures/StockSnap_J8HQTPQR4I.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 700,
+      "pictureColor": "כחול"
+    },
+    {
+      "id": 44,
+      "pictureName": "מפליגים רחוק",
+      "pictureSrcImage": "./images/pictures/SY200707-3708-768x512.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 2000,
+      "pictureColor": "ירוק"
+    },
+    {
+      "id": 45,
+      "pictureName": "ים של צבעים",
+      "pictureSrcImage": "./images/pictures/SY201003-3537-768x432.jpg",
+      "pictureType": "תמונות לסלון",
+      "picturePrice": 1500,
+      "pictureColor": "כתום"
+    },
+    {
+      "id": 46,
+      "pictureName": "עתיד ורוד",
+      "pictureSrcImage": "./images/pictures/YM5PFT4AEP.jpg",
+      "pictureType": "פרחים",
+      "picturePrice": 500,
+      "pictureColor": "ורוד"
+    }
+  ],
+  "userPictures": [
+    {
+      "id": "786d7553-a608-4700-b867-08e0764ffb85",
+      "userId": "41fccf0a-c70c-43a1-b85b-2c294493eb65",
+      "pictureId": 34,
+      "pictureSize": "120x80",
+      "pictureCount": 1
+    },
+    {
+      "id": "74f81d34-1679-4057-a67b-04b60129aaad",
+      "userId": "038276ee-f350-4292-8776-4156ba0683c5",
+      "pictureId": 3,
+      "pictureSize": "50x30",
+      "pictureCount": 1
+    },
+    {
+      "id": "47cccaf6-7cc1-4e84-8a80-3dae8cd55b97",
+      "userId": "038276ee-f350-4292-8776-4156ba0683c5",
+      "pictureId": 2,
+      "pictureSize": "190x27",
+      "pictureCount": 1
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+#hrBottom{
+    margin-left: 14vw;
+    left: 6vw;
+    margin-top: 2vh;
+    width: 71vw;
+    height: 1vh;
+    background-color:  rgb(229, 255, 0);
+    margin-bottom: 2vh;
+}
+.notFound {
+    margin-left: 4vw;
+    margin-top: 14vh;
+    font-size: 5vw;
+}
+.MuiGrid-spacing-xs-2 {
+    width: 99vw !important;
+    margin: -8px;
+}
+.katalog{
+    justify-content: center;
+}

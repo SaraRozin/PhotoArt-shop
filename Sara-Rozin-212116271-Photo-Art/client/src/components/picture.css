@@ -1,0 +1,45 @@
+.cardPicture{
+    width: 17vw;
+    height: 40vh;
+}
+.imageButton{
+    background-color: transparent;
+    border: none;
+}
+.imagePicture{
+    box-shadow: 1vw 1vw 1vw#888;
+    height: 33vh;
+    width: 16vw;
+    margin-left: -0.5vw;
+}
+.cardContent{
+    font-size: 1.5vw;
+}
+.AddShoppingCart{
+    border:none;
+    background-color: transparent;
+}  
+.AddShoppingCartImageOver{
+    width:8vw;
+    height: 13vh;
+}    
+.AddShoppingCartImage{
+    margin-top: -8vh;
+    width: 3vw;
+    height: 5vh;
+    margin-left: -14vw;
+}
+.overPicture{
+    position: absolute;
+    margin-top: 10vh;
+    margin-left: 4vw;
+
+}
+.details{
+    width: 15vw;
+    margin-left: 12vw;
+    margin-top: -30vh;
+    font-size: 1.5vw;
+    height: 15vh;
+    text-align: right;
+}

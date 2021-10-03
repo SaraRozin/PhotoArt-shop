@@ -1,0 +1,23 @@
+.css-2b097c-container{
+    width: 10vw !important;
+}
+#selectByColor{
+    z-index: 6000;
+    left: 47vw;
+    margin-top: 0vh;
+    position: absolute;
+}
+
+#selectByType{
+    z-index: 6000;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    left: 58vw;
+}
+#selectByPrice{
+    z-index: 6000;
+    margin-top: -8.4vh;
+    position: absolute;
+    margin-left: 36vw;
+}
+

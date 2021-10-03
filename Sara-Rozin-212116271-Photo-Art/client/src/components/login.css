@@ -1,0 +1,77 @@
+#btn {
+  
+    background-color: rgb(2, 2, 1) !important;
+}
+.login{
+    box-shadow: 1vw 1vw 1vw rgb(229 255 0);
+    width: 30vw;
+    margin-top: 4vw;
+    height: 56vh;
+    border: 0.1vw solid black;
+    margin-left: 36vw;
+}
+#mDBContainer{
+    margin-left: 8vw;
+    margin-top: 9vh;
+
+}
+.error {
+    color: red;
+    font-size: 0.79vw;
+    display: relative;
+    margin-top: -3vh;
+}
+.md-form {
+    width: 18vw !important;
+    margin-left: -5vw !important;
+}
+
+.md-form .prefix {
+    color: rgb(229 255 0);
+    margin-left: -10vw !important;
+    margin-top: 2vh !important;
+}
+
+.text-center {
+    text-align: center!important;
+    font-size: 2.5vw !important;
+    margin-top: -6vh !important;
+    margin-left: 2vw !important;
+    /* position: absolute; */
+}
+#loginBbtn{
+    font-size: 1.5vw !important;
+    margin-top: 7vh;
+    background-color: rgb(229 255 0) !important;
+    border-radius: 2vw;
+    position: absolute;
+    margin-left: -6vw;
+    width: 11vw !important;
+    height: 8vh !important;
+    padding: 1vw;
+}
+#regisrterBtn{
+    margin-top: 17vh;
+    color:  rgb(229 255 0);
+    background-color: white !important;
+    border-radius: 2vw;
+    margin-left: -8vw;
+    width: 5vw;
+    font-size: 1vw;
+    height: 5vh;
+    padding: 0vw;
+    border: none !important;
+    font-weight: bold;
+}
+#notRegister{
+    margin-top: 18vh;
+    color: black;
+    font-size: 1vw;
+    position: absolute;
+    margin-left: 3vw;
+    width: 13vw;
+}
+#input{
+    width: 15vw;
+    margin-left: 1vw;
+}

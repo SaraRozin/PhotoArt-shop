@@ -1,0 +1,56 @@
+.focusPicture{ 
+    width: 100vw;
+    z-index: 2019;
+    top: 35vh;
+    background-color: white;
+    position: absolute;
+    height: 89vh;
+    left: 0vw;
+}
+.titlePicture {
+    right: 75.5vw;
+    position: absolute;
+    top: 7vh;
+    font-size: 3vw;
+    font-weight: bold;
+    font-family: system-ui;
+}
+.price{
+    top: 45vh;
+    position: absolute;
+    font-size: 2vw;
+    right: 76.5vw;
+    font-family: system-ui;
+}
+.yellowBtn{
+    border-radius: 2vw;
+    top: 56vh;
+    position: absolute;
+    left: 9vw;
+    width: 15vw;
+    background-color: rgb(229, 255, 0);
+    border-color: black;
+    height: 10vh;
+    border: none;
+    font-size: 1.5vw;
+}
+.focusImage{
+    position: absolute;
+    top: 1vh;
+    right: 0vw;
+    width: 67vw;
+    height: 81vh;
+}
+#selectBySize{
+    margin-top: 35vh;
+    margin-left: 11vw;
+    width: 13vw !important;
+}
+.errorMessage {
+    color: red;
+    margin-left: 11vw;
+    display: relative;
+    top: 70vh;
+    position: absolute;
+    font-size: 1.79vw;
+}

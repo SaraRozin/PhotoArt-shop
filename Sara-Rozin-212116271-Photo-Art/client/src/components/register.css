@@ -1,0 +1,14 @@
+#register{
+    height: 63vh;
+}
+#registerBtn{
+    font-size: 1.5vw !important;
+    margin-top: 3vh;
+    background-color: rgb(229 255 0) !important;
+    border-radius: 2vw;    
+    position: absolute;
+    margin-left: -6vw;
+    width: 11vw !important;
+    height: 8vh !important;
+    padding: 1vw;
+}

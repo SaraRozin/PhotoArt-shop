@@ -1,0 +1,55 @@
+#hBody{
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    height:120vh;
+    width: 100vw;   
+}
+#text{
+   padding-top:6% ;
+   color: rgb(6, 113, 214);
+   text-shadow:2px 5px 5px purple;
+}
+#logo{
+  margin-top: 0;
+  position: absolute;
+  float: right;
+  width: 35%;
+  margin-left: 15%;
+  }
+.Yellow{
+  background-color:  rgb(229, 255, 0);
+  /* background-color: gold; */
+  height:3vh;
+}
+#Yellow{
+  background-color:  rgb(229, 255, 0);
+}
+
+.logo{
+  background-color: transparent;
+  margin-top: 0vh;
+  height: 6vh;
+  width: 10vw;
+  border: none; 
+}
+#home{
+  margin-left: 41.5vw;
+  font-size: 1.6vw;
+  margin-top: 0.2vh;
+}  
+  .nav-item {
+  margin-top: 0vh;
+  font-size: 1.6vw;
+  margin-right: 1vw;
+}
+  .part{
+  font-weight: bold;
+  font-size: 2vw;
+  color:  rgb(229, 255, 0);
+  margin-top: 0.5vh;
+  margin-right: 1vw;
+}
+
+          
+      
